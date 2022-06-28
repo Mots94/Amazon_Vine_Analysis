@@ -5,8 +5,16 @@ The Amazon Vine program provides members with products free of charge, and in ex
 
 ## Results
 
-### Vine Program Reviews
+#### Vine Program Reviews
 ![v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/vine_program.PNG)  
 
-### Non-Vine Program Reviews
+#### Non-Vine Program Reviews
 ![no-v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/non_vine_program.PNG)
+
+* The vine program had a total of 43 reviews in this dataset, 14 of which were five star reviews
+
+![v-count](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/v_program_counts.PNG)
+
+* There were 7,720 non-vine program reviews and 4018 of those reviews received five stars.
+
+![non-v-count](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/no_v_program_counts.PNG)
