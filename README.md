@@ -5,4 +5,8 @@ The Amazon Vine program provides members with products free of charge, and in ex
 
 ## Results
 
-![v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/vine_program.PNG)  ![no-v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/non_vine_program.PNG)
+### Vine Program Reviews
+![v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/vine_program.PNG)  
+
+### Non-Vine Program Reviews
+![no-v-prog](https://github.com/Mots94/Amazon_Vine_Analysis/blob/main/Images/non_vine_program.PNG)
